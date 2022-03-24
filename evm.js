@@ -3554,4 +3554,19 @@ var EVMJson=[{
   "shortName": "palm",
   "chainId": 11297108109,
   "networkId": 11297108109
+}, {
+  "name": "AEROCHAIN",
+  "chain": "AERO",
+  "network": "testnet",
+  "rpc": ["https://testnet-rpc.aerochain.id"],
+  "faucets": [],
+  "nativeCurrency": {
+    "name": "AEROCHAIN",
+    "symbol": "ARC",
+    "decimals": 18
+  },
+  "infoURL": "https://aerochaincoin.org",
+  "shortName": "aero",
+  "chainId": 788,
+  "networkId": 788
 }];
