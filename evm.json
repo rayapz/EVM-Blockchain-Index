@@ -3559,7 +3559,7 @@
   "name": "AEROCHAIN",
   "chain": "AERO",
   "network": "testnet",
-  "rpc": [],
+  "rpc": ["https://testnet-rpc.aerochain.id"],
   "faucets": [],
   "nativeCurrency": {
     "name": "AEROCHAIN",
